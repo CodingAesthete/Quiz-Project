@@ -1,1 +1,1 @@
-# Quiz about the history, geography and economy of Bulgaria.
+# Quiz about the history and gegraphy of Bulgaria.

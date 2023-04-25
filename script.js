@@ -80,7 +80,7 @@ const quizData = [
     correct: "a",
   },
   {
-    question: "11.) The Time Zone of Bulgaria is:",
+    question: "The Time Zone of Bulgaria is:",
     a: "EET",
     b: "CET",
     c: "UTC",
@@ -88,7 +88,7 @@ const quizData = [
     correct: "a",
   },
   {
-    question: "12.) Neighbour of Bulgaria is not:",
+    question: "Neighbour of Bulgaria is not:",
     a: "Macedonia",
     b: "Romania",
     c: "Kosovo",
@@ -96,7 +96,7 @@ const quizData = [
     correct: "c",
   },
   {
-    question: "13.) The country code of Bulgaria is:",
+    question: "The country code of Bulgaria is:",
     a: "+395",
     b: "+11",
     c: "+2",
@@ -104,7 +104,7 @@ const quizData = [
     correct: "d",
   },
   {
-    question: "14.) Which of these cities is known as \"The Small Vienna\"?",
+    question: "Which of these cities is known as \"The Small Vienna\"?",
     a: "Plovdiv",
     b: "Dobrich",
     c: "Sofia",
@@ -112,7 +112,7 @@ const quizData = [
     correct: "d",
   },
   {
-    question: "15.) Which of these drinks is typically bulgarian?",
+    question: "Which of these drinks is typically bulgarian?",
     a: "Whiskey",
     b: "Wine",
     c: "Rakiya",
@@ -120,7 +120,7 @@ const quizData = [
     correct: "c",
   },
   {
-    question: "16.) which event leads to the Liberation of Bulgaria from Turkish slavery?",
+    question: "Which event leads to the Liberation of Bulgaria from Turkish slavery?",
     a: "The Russian-Turkish War (1877 - 1878)",
     b: "The April Uprising (1876)",
     c: "The Uprising of Captain Nikola (1856)",
@@ -128,7 +128,7 @@ const quizData = [
     correct: "a",
   },
   {
-    question: "17.) On the territory of which countries was the first Bulgarian state located?",
+    question: "On the territory of which countries was the first Bulgarian state located?",
     a: "Bulgaria and Romania",
     b: "Romania and Ukraine",
     c: "Ukraine and Russia",
@@ -136,7 +136,7 @@ const quizData = [
     correct: "a",
   },
   {
-    question: "18.) Which religion did the proto-Bulgarians practice before accepting Christianity?",
+    question: "Which religion did the proto-Bulgarians practice before accepting Christianity?",
     a: "Islam",
     b: "Christianity",
     c: "Tengrism",
@@ -144,7 +144,7 @@ const quizData = [
     correct: "c",
   },
   {
-    question: "19.) Bulgaria is the home of the Cyrillic alphabet, which is still used today in countries in Europe and Asia. One of these countries is:",
+    question: "Bulgaria is the home of the Cyrillic alphabet, which is still used today in countries in Europe and Asia. One of these countries is:",
     a: "Uzbekistan",
     b: "Mongolia",
     c: "Georgia",
@@ -152,7 +152,7 @@ const quizData = [
     correct: "b",
   },
   {
-    question: "20.) Bulgaria adopted Orthodoxy as early as 864, but during the reign of one Bulgarian ruler, it briefly joined the Catholic world. Who is this ruler?",
+    question: "Bulgaria adopted Orthodoxy as early as 864, but during the reign of one Bulgarian ruler, it briefly joined the Catholic world. Who is this ruler?",
     a: "Tsar Ivan Asen II",
     b: "Tsar Kaloyan",
     c: "Tsar Petar I",

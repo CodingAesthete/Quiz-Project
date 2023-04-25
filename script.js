@@ -221,7 +221,7 @@ submitBtn.addEventListener('click', () => {
     loadQuiz();
   } else {
     quiz.innerHTML=`<h2>You finished the quiz.
-    Your score is: ${score}.<h2>
+    Your score is: ${score}/20.<h2>
     <button onclick="location.reload()">Reload</button>`
   }
 });
